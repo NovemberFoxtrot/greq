@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Who is greq?")
+	fmt.Println("What is greq?")
 }
